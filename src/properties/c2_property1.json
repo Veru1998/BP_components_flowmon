@@ -1,0 +1,11 @@
+{
+    "svg_height":500,
+    "state_height":25,
+    "incidentColor":["#78B926"],
+    "icons": [
+      {
+        "id": 7,
+        "iconType":"label"
+      }
+    ]
+  }

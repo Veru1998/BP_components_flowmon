@@ -1,0 +1,28 @@
+{
+  "ID":"1",
+  "name":"Incident1",
+  "description":"Something blablabla",
+  "IP_src":"129.3.6.152",
+  "IP_dst":"128.0.3.1",
+  "created":"28 Apr 2021 13:10:00",
+  "opened":"28 Dec 2021 13:14:25",
+  "states": [
+    {
+      "status":"new",
+      "priority":2,
+      "owner":"Abby",
+      "starting_time":"28 Apr 2021 13:14:25",
+      "ending_time":"28 Apr 2021 16:14:30",
+      "comment":"Something blablabla",
+      "comment_time":"28 Apr 2021 17:20:25"
+    },
+    {
+      "status":"active",
+      "priority":1,
+      "owner":"John",
+      "starting_time":"28 Apr 2021 16:14:30",
+      "comment":"Something blablabla",
+      "comment_time":"28 Apr 2021 19:14:30"
+    }
+  ]
+}
